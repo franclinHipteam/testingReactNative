@@ -1,0 +1,89 @@
+{
+  "type": "Magazine",
+  "array": [
+    {
+      "imageUrl": "https://graphicpolicy.files.wordpress.com/2014/12/garfield_v5_covera.jpg",
+      "title": "Girfield",
+      "issuesUrl": "some url",
+      "objectId" : "1",
+      "isAvailable" : false
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/SupermanRoss.png",
+      "title": "Superman",
+      "issuesUrl": "some url",
+      "objectId" : "2",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "http://media.comicbook.com/2016/09/batman-arkham-knight-costume-199838.jpg",
+      "title": "Batman",
+      "issuesUrl": "some url",
+      "objectId" : "3",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "https://graphicpolicy.files.wordpress.com/2014/12/garfield_v5_covera.jpg",
+      "title": "Girfield 1",
+      "issuesUrl": "some url",
+      "objectId" : "4",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/SupermanRoss.png",
+      "title": "Superman 1",
+      "issuesUrl": "some url",
+      "objectId" : "5",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "http://media.comicbook.com/2016/09/batman-arkham-knight-costume-199838.jpg",
+      "title": "Batman 1",
+      "issuesUrl": "some url",
+      "objectId" : "6",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "https://graphicpolicy.files.wordpress.com/2014/12/garfield_v5_covera.jpg",
+      "title": "Girfield 2",
+      "issuesUrl": "some url",
+      "objectId" : "7",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/SupermanRoss.png",
+      "title": "Superman 2",
+      "issuesUrl": "some url",
+      "objectId" : "8",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "http://media.comicbook.com/2016/09/batman-arkham-knight-costume-199838.jpg",
+      "title": "Batman 2",
+      "issuesUrl": "some url",
+      "objectId" : "9",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "https://graphicpolicy.files.wordpress.com/2014/12/garfield_v5_covera.jpg",
+      "title": "Girfield 3",
+      "issuesUrl": "some url",
+      "objectId" : "10",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/eb/SupermanRoss.png",
+      "title": "Superman 3",
+      "issuesUrl": "some url",
+      "objectId" : "11",
+      "isAvailable" : true
+    },
+    {
+      "imageUrl": "http://media.comicbook.com/2016/09/batman-arkham-knight-costume-199838.jpg",
+      "title": "Batman 3",
+      "issuesUrl": "some url",
+      "objectId" : "12",
+      "isAvailable" : true
+    }
+  ]
+}
